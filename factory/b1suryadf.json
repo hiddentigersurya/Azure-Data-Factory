@@ -1,0 +1,9 @@
+{
+	"name": "b1suryadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bed3e63d-2944-43c6-9e8b-9bd53d32c503",
+		"tenantId": "9113a773-551f-43d9-b471-faecdaa94417"
+	}
+}
